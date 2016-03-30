@@ -1,0 +1,31 @@
+{
+  "name": "angular2-quickstart",
+  "description": "test bower",
+  "main": "",
+  "authors": [
+    "Yury Trus <yurik851@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bower",
+    "grunt",
+    "jquery",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/angular/quickstart",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2"
+  }
+}
